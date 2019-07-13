@@ -1,0 +1,5 @@
+# requirements.txt
+falcon==1.4.1
+peewee==3.8.0
+marshmallow==2.15.3
+gunicorn==19.9.0
